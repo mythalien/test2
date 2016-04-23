@@ -2,6 +2,7 @@
 //
 #include "stdafx.h"
 #include <winsock.h>   
+//1
 
 
 #include "./include/ASMeSDK.h"
