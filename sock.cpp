@@ -176,3 +176,5 @@ int _tmain(int argc, _TCHAR* argv[])
 }
 //test for git
 //just another sentence
+//test for git commit -a
+
