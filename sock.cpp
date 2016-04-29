@@ -7,7 +7,7 @@
 
 
 #include "./include/ASMeSDK.h"
-
+//snadkjns
 #define   RECVLEN  128 // 接收缓冲区大小
 #define   RETLEN   10
 char buf[RECVLEN];        // 接收缓冲区
